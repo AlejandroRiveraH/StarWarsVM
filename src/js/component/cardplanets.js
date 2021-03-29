@@ -17,7 +17,7 @@ export function Cardplanets(props) {
 			<div className="card" style={{ width: "18rem" }}>
 				<img
 					className="card-img-top"
-					src="https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/07/star-wars-death-star-earth.jpg"
+					src="https://i1.wp.com/www.gamerfocus.co/wp-content/uploads/2019/11/planetas_fallen_order.jpg?w=1280&ssl=1"
 					alt="Star Wars Planets Image"
 				/>
 				<div className="card-body">

@@ -18,7 +18,7 @@ export function Cardvehicles(props) {
 			<div className="card d-flex" style={{ width: "18rem" }}>
 				<img
 					className="card-img-top"
-					src="https://i.pinimg.com/originals/5c/74/bd/5c74bdb7e78643598a20c01da29ab667.jpg"
+					src="https://as01.epimg.net/meristation/imagenes/2020/06/16/noticias/1592333203_626865_1592333253_miniatura_normal.jpg"
 					alt="Star Wars Vehicles Image"
 				/>
 				<div className="card-body">

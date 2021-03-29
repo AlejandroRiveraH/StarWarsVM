@@ -18,7 +18,7 @@ export function Cardpeople(props) {
 			<div className="card d-flex" style={{ width: "18rem" }}>
 				<img
 					className="card-img-top"
-					src="https://www.telokwento.com/wp-content/uploads/2020/04/starwaars.jpg"
+					src="https://www.cinemascomics.com/wp-content/uploads/2020/11/star-wars-personajes-960x720.jpg.webp"
 					alt="Star Wars Image"
 				/>
 				<div className="card-body">

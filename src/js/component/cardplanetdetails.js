@@ -13,7 +13,7 @@ export function Cardplanetdetails(props) {
 				<div className="row no-gutters">
 					<div className="col-md-6">
 						<img
-							src="https://d2cdo4blch85n8.cloudfront.net/wp-content/uploads/2019/08/Planet-with-Three-Suns-Discovered-Featured-image.jpg"
+							src="https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2019/11/jedy_kashyyyk.jpg?resize=768%2C432&ssl=1"
 							width="500"
 							height="300"
 							alt="Star Wars Planet Image"
